@@ -1,0 +1,715 @@
+{
+    "directed": false, 
+    "graph": {}, 
+    "nodes": [
+        {
+            "note": "CPT", 
+            "author": "Cornean, Horia D and Pedersen, Thomas G and Ricaud, Benjamin", 
+            "ENTRYTYPE": "inproceedings", 
+            "booktitle": "Adventures in Mathematical Physics", 
+            "title": "Perturbative vs. variational methods in the study of carbon nanotubes", 
+            "pages": "45", 
+            "volume": "447", 
+            "year": "2007", 
+            "id": "cornean2007contemporary", 
+            "organization": "American Mathematical Soc.", 
+            "ID": "cornean2007contemporary"
+        }, 
+        {
+            "publisher": "Springer", 
+            "note": "LATP", 
+            "author": "Ricaud, Benjamin and Stempfel, Guillaume and Torr\u00e9sani, Bruno and Wiesmeyr, Christoph and Lachambre, H\u00e9l\u00e8ne and Onchis, Darian", 
+            "ENTRYTYPE": "article", 
+            "journal": "Advances in Computational Mathematics", 
+            "title": "An optimally concentrated Gabor transform for localized time-frequency components", 
+            "number": "3", 
+            "pages": "683--702", 
+            "volume": "40", 
+            "year": "2014", 
+            "id": "ricaud2014optimally", 
+            "ID": "ricaud2014optimally"
+        }, 
+        {
+            "publisher": "Ieee", 
+            "note": "LATP", 
+            "author": "Ricaud, Benjamin and Torr\u00e9sani, Bruno", 
+            "ENTRYTYPE": "article", 
+            "journal": "Ieee Transactions On Information Theory", 
+            "title": "Refined Support and Entropic Uncertainty Inequalities", 
+            "number": "EPFL-ARTICLE-189504", 
+            "pages": "4272--4279", 
+            "volume": "59", 
+            "year": "2013", 
+            "id": "ricaud2013refined", 
+            "ID": "ricaud2013refined"
+        }, 
+        {
+            "author": "Smith, Keith and Ricaud, Benjamin and Shahid, Nauman and Rhodes, Stephen and Starr, John M and Ibanez, Agustin and Parra, Mario A and Escudero, Javier and Vandergheynst, Pierre", 
+            "journal": "arXiv preprint arXiv:1606.02587", 
+            "title": "The Physiological Underpinnings of Visual Short-Term Memory Binding using Graph Modular Dirichlet Energy: Evidence from Healthy Subjects", 
+            "ID": "smith2016physiological", 
+            "note": "EPFL", 
+            "year": "2016", 
+            "id": "smith2016physiological", 
+            "ENTRYTYPE": "article"
+        }, 
+        {
+            "author": "Shahid, Nauman and Perraudin, Nathanael and Kalofolias, Vassilis and Ricaud, Benjamin and Vandergheynst, Pierre", 
+            "ENTRYTYPE": "inproceedings", 
+            "booktitle": "ICASSP", 
+            "title": "PCA using graph total variation", 
+            "ID": "shahid2016pca", 
+            "note": "EPFL", 
+            "year": "2016", 
+            "id": "shahid2016pca", 
+            "organization": "IEEE", 
+            "pages": "4668--4672"
+        }, 
+        {
+            "note": "Person", 
+            "id": "Benjamin", 
+            "ID": "Benjamin", 
+            "title": "Benjamin"
+        }, 
+        {
+            "publisher": "Elsevier", 
+            "note": "EPFL", 
+            "author": "Shuman, David I and Ricaud, Benjamin and Vandergheynst, Pierre", 
+            "ENTRYTYPE": "article", 
+            "journal": "Applied and Computational Harmonic Analysis", 
+            "title": "Vertex-frequency analysis on graphs", 
+            "number": "2", 
+            "pages": "260--291", 
+            "volume": "40", 
+            "year": "2016", 
+            "id": "shuman2016vertex", 
+            "ID": "shuman2016vertex"
+        }, 
+        {
+            "author": "Shuman, David I and Ricaud, Benjamin and Vandergheynst, Pierre", 
+            "ENTRYTYPE": "inproceedings", 
+            "booktitle": "2012 IEEE Statistical Signal Processing Workshop (SSP)", 
+            "title": "A windowed graph Fourier transform", 
+            "ID": "shuman2012windowed", 
+            "note": "EPFL", 
+            "year": "2012", 
+            "id": "shuman2012windowed", 
+            "organization": "Ieee", 
+            "pages": "133--136"
+        }, 
+        {
+            "publisher": "IEEE", 
+            "note": "EPFL", 
+            "author": "Benzi, Kirell and Ricaud, Benjamin and Vandergheynst, Pierre", 
+            "ENTRYTYPE": "article", 
+            "journal": "IEEE Transactions on Signal and Information Processing over Networks", 
+            "title": "Principal Patterns on Graphs: Discovering Coherent Structures in Datasets", 
+            "number": "2", 
+            "pages": "160--173", 
+            "volume": "2", 
+            "year": "2016", 
+            "id": "benzi2016principal", 
+            "ID": "benzi2016principal"
+        }, 
+        {
+            "publisher": "Springer", 
+            "note": "CPT", 
+            "author": "Cornean, Horia D and Duclos, Pierre and Ricaud, Benjamin", 
+            "ENTRYTYPE": "article", 
+            "journal": "Few-Body Systems", 
+            "title": "On critical stability of three quantum charges interacting through delta potentials", 
+            "number": "2", 
+            "pages": "125--131", 
+            "volume": "38", 
+            "year": "2006", 
+            "id": "cornean2006critical", 
+            "ID": "cornean2006critical"
+        }, 
+        {
+            "publisher": "AIP Publishing", 
+            "note": "CPT-CEA", 
+            "author": "Clairet, F and Ricaud, B and Briolle, F and Heuraux, S and Bottereau, C", 
+            "ENTRYTYPE": "article", 
+            "journal": "Review of Scientific Instruments", 
+            "title": "New signal processing technique for density profile reconstruction using reflectometry", 
+            "number": "8", 
+            "pages": "083502", 
+            "volume": "82", 
+            "year": "2011", 
+            "id": "clairet2011new", 
+            "ID": "clairet2011new"
+        }, 
+        {
+            "note": "CPT", 
+            "author": "Cornean, Horia D and Duclos, Pierre and Ricaud, Benjamin", 
+            "ENTRYTYPE": "article", 
+            "booktitle": "Annales Henri Poincar\u00e9", 
+            "title": "Effective models for excitons in carbon nanotubes", 
+            "number": "1", 
+            "pages": "135--163", 
+            "volume": "8", 
+            "year": "2007", 
+            "id": "cornean2007effective", 
+            "organization": "Springer", 
+            "ID": "cornean2007effective"
+        }, 
+        {
+            "publisher": "Springer", 
+            "note": "LATP", 
+            "author": "Ricaud, Benjamin and Torr\u00e9sani, Bruno", 
+            "ENTRYTYPE": "article", 
+            "journal": "Advances in Computational Mathematics", 
+            "title": "A survey of uncertainty principles and some signal processing applications", 
+            "number": "3", 
+            "pages": "629--650", 
+            "volume": "40", 
+            "year": "2014", 
+            "id": "ricaud2014survey", 
+            "ID": "ricaud2014survey"
+        }, 
+        {
+            "author": "Lachambre, Helene and Ricaud, Benjamin and Stempfel, Guillaume and Torr\u00e9sani, Bruno and Wiesmeyr, Christoph and Onchis-Moaca, Darian", 
+            "ENTRYTYPE": "inproceedings", 
+            "booktitle": "SYNASC", 
+            "title": "Optimal Window and Lattice in Gabor Transform. Application to Audio Analysis", 
+            "ID": "lachambre2015optimal", 
+            "note": "LATP", 
+            "year": "2015", 
+            "id": "lachambre2015optimal", 
+            "organization": "IEEE", 
+            "pages": "109--112"
+        }, 
+        {
+            "author": "Feichtinger, Hans Georg and Onchis-Moaca, Darian and Ricaud, Benjamin and Torr\u00e9sani, Bruno and Wiesmeyr, Christoph", 
+            "ENTRYTYPE": "inproceedings", 
+            "booktitle": "Proceedings of the 20th EUSIPCO", 
+            "title": "A method for optimizing the ambiguity function concentration", 
+            "ID": "feichtinger2012method", 
+            "note": "LATP", 
+            "year": "2012", 
+            "id": "feichtinger2012method", 
+            "organization": "IEEE", 
+            "pages": "804--808"
+        }, 
+        {
+            "author": "Ricaud, Benjamin and Shuman, David I and Vandergheynst, Pierre", 
+            "ENTRYTYPE": "inproceedings", 
+            "booktitle": "SPIE", 
+            "title": "On the sparsity of wavelet coefficients for signals on graphs", 
+            "ID": "ricaud2013sparsity", 
+            "note": "EPFL", 
+            "year": "2013", 
+            "id": "ricaud2013sparsity", 
+            "organization": "International Society for Optics and Photonics", 
+            "pages": "88581L--88581L"
+        }, 
+        {
+            "author": "Ricaud, Benjamin and Briolle, Francoise and Leoncini, Xavier", 
+            "booktitle": "Chaos, Complexity and Transport", 
+            "title": "Detection and Characterization of L\u00e9vy flights in chaotic advection phenomena", 
+            "ID": "ricaud2011detection", 
+            "note": "CPT-CEA", 
+            "year": "2011", 
+            "id": "ricaud2011detection", 
+            "organization": "world scientific", 
+            "ENTRYTYPE": "inproceedings"
+        }, 
+        {
+            "publisher": "Springer", 
+            "note": "CPT-CEA", 
+            "author": "Briolle, F and Man\u2019ko, VI and Ricaud, B and Mendes, R Vilela", 
+            "ENTRYTYPE": "article", 
+            "journal": "Journal of Russian Laser Research", 
+            "title": "Noncommutative tomography: A tool for data analysis and signal processing", 
+            "number": "2", 
+            "pages": "103--121", 
+            "volume": "33", 
+            "year": "2012", 
+            "id": "briolle2012noncommutative", 
+            "ID": "briolle2012noncommutative"
+        }, 
+        {
+            "author": "Perraudin, Nathanael and Ricaud, Benjamin and Shuman, David and Vandergheynst, Pierre", 
+            "journal": "arXiv preprint arXiv:1603.03030", 
+            "title": "Global and local uncertainty principles for signals on graphs", 
+            "ID": "perraudin2016global", 
+            "note": "EPFL", 
+            "year": "2016", 
+            "id": "perraudin2016global", 
+            "ENTRYTYPE": "article"
+        }, 
+        {
+            "publisher": "S. Hirzel Verlag", 
+            "note": "LMA", 
+            "author": "Ricaud, Benjamin and Guillemain, Philippe and Kergomard, Jean and Silva, Fabrice and Vergez, Christophe", 
+            "ENTRYTYPE": "article", 
+            "journal": "Acta Acustica united with Acustica", 
+            "title": "Behavior of reed woodwind instruments around the oscillation threshold", 
+            "number": "4", 
+            "pages": "733--743", 
+            "volume": "95", 
+            "year": "2009", 
+            "id": "ricaud2009behavior", 
+            "ID": "ricaud2009behavior"
+        }, 
+        {
+            "publisher": "AIP Publishing", 
+            "note": "CPT", 
+            "author": "Rasmussen, Morten Grud and Ricaud, Benjamin and Savoie, Baptiste", 
+            "ENTRYTYPE": "article", 
+            "journal": "Journal of Mathematical Physics", 
+            "title": "On the optical properties of carbon nanotubes. Part I. A general formula for the dynamical optical conductivity", 
+            "number": "2", 
+            "pages": "021901", 
+            "volume": "57", 
+            "year": "2016", 
+            "id": "rasmussen2016optical", 
+            "ID": "rasmussen2016optical"
+        }, 
+        {
+            "school": "Universit\u00e9 du Sud Toulon Var", 
+            "author": "Ricaud, Benjamin", 
+            "title": "Mod\u00e9lisation et \u00e9tude des propri\u00e9t\u00e9s optiques des nanotubes de carbone", 
+            "ID": "ricaud2007modelisation", 
+            "note": "CPT", 
+            "year": "2007", 
+            "id": "ricaud2007modelisation", 
+            "ENTRYTYPE": "phdthesis"
+        }, 
+        {
+            "author": "Cornean, Horia D and Duclos, Pierre and Ricaud, Benjamin", 
+            "ENTRYTYPE": "inproceedings", 
+            "journal": "Symposia in Pure Mathematics - Analysis on Graphs and Its Applications", 
+            "title": "On the skeleton method and an application to a quantum scissor", 
+            "ID": "cornean2008skeleton", 
+            "note": "CPT", 
+            "link": "http://arxiv.org/abs/0801.2627", 
+            "year": "2008", 
+            "id": "cornean2008skeleton", 
+            "abstract": "In the spectral analysis of few one dimensional quantum particles interacting through delta potentials it is well known that one can recast the problem into the spectral analysis of an integral operator (the skeleton) living on the submanifold which supports the delta interactions. We shall present several tools which allow direct insight into the spectral structure of this skeleton. We shall illustrate the method on a model of a two dimensional quantum particle interacting with two infinitely long straight wires which cross one anonter at angle \\theta: the quantum scissor."
+        }
+    ], 
+    "links": [
+        {
+            "source": 0, 
+            "target": 5, 
+            "weight": 1
+        }, 
+        {
+            "source": 0, 
+            "target": 22, 
+            "weight": 1
+        }, 
+        {
+            "source": 0, 
+            "target": 9, 
+            "weight": 1
+        }, 
+        {
+            "source": 0, 
+            "target": 0, 
+            "weight": 2
+        }, 
+        {
+            "source": 0, 
+            "target": 11, 
+            "weight": 1
+        }, 
+        {
+            "source": 1, 
+            "target": 5, 
+            "weight": 1
+        }, 
+        {
+            "source": 1, 
+            "target": 2, 
+            "weight": 1
+        }, 
+        {
+            "source": 1, 
+            "target": 12, 
+            "weight": 1
+        }, 
+        {
+            "source": 1, 
+            "target": 1, 
+            "weight": 5
+        }, 
+        {
+            "source": 1, 
+            "target": 14, 
+            "weight": 3
+        }, 
+        {
+            "source": 1, 
+            "target": 13, 
+            "weight": 5
+        }, 
+        {
+            "source": 2, 
+            "target": 5, 
+            "weight": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 2, 
+            "weight": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 12, 
+            "weight": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 14, 
+            "weight": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 13, 
+            "weight": 1
+        }, 
+        {
+            "source": 3, 
+            "target": 5, 
+            "weight": 1
+        }, 
+        {
+            "source": 3, 
+            "target": 15, 
+            "weight": 1
+        }, 
+        {
+            "source": 3, 
+            "target": 6, 
+            "weight": 1
+        }, 
+        {
+            "source": 3, 
+            "target": 7, 
+            "weight": 1
+        }, 
+        {
+            "source": 3, 
+            "target": 18, 
+            "weight": 1
+        }, 
+        {
+            "source": 3, 
+            "target": 8, 
+            "weight": 1
+        }, 
+        {
+            "source": 3, 
+            "target": 3, 
+            "weight": 8
+        }, 
+        {
+            "source": 3, 
+            "target": 4, 
+            "weight": 2
+        }, 
+        {
+            "source": 4, 
+            "target": 5, 
+            "weight": 1
+        }, 
+        {
+            "source": 4, 
+            "target": 15, 
+            "weight": 1
+        }, 
+        {
+            "source": 4, 
+            "target": 6, 
+            "weight": 1
+        }, 
+        {
+            "source": 4, 
+            "target": 7, 
+            "weight": 1
+        }, 
+        {
+            "source": 4, 
+            "target": 18, 
+            "weight": 2
+        }, 
+        {
+            "source": 4, 
+            "target": 8, 
+            "weight": 1
+        }, 
+        {
+            "source": 4, 
+            "target": 4, 
+            "weight": 4
+        }, 
+        {
+            "source": 5, 
+            "target": 5, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 6, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 7, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 8, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 9, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 10, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 11, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 12, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 13, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 14, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 15, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 16, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 17, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 21, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 19, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 20, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 18, 
+            "weight": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 22, 
+            "weight": 1
+        }, 
+        {
+            "source": 6, 
+            "target": 15, 
+            "weight": 2
+        }, 
+        {
+            "source": 6, 
+            "target": 6, 
+            "weight": 2
+        }, 
+        {
+            "source": 6, 
+            "target": 7, 
+            "weight": 2
+        }, 
+        {
+            "source": 6, 
+            "target": 18, 
+            "weight": 2
+        }, 
+        {
+            "source": 6, 
+            "target": 8, 
+            "weight": 1
+        }, 
+        {
+            "source": 7, 
+            "target": 15, 
+            "weight": 2
+        }, 
+        {
+            "source": 7, 
+            "target": 7, 
+            "weight": 2
+        }, 
+        {
+            "source": 7, 
+            "target": 18, 
+            "weight": 2
+        }, 
+        {
+            "source": 7, 
+            "target": 8, 
+            "weight": 1
+        }, 
+        {
+            "source": 8, 
+            "target": 15, 
+            "weight": 1
+        }, 
+        {
+            "source": 8, 
+            "target": 18, 
+            "weight": 1
+        }, 
+        {
+            "source": 8, 
+            "target": 8, 
+            "weight": 2
+        }, 
+        {
+            "source": 9, 
+            "target": 22, 
+            "weight": 2
+        }, 
+        {
+            "source": 9, 
+            "target": 9, 
+            "weight": 2
+        }, 
+        {
+            "source": 9, 
+            "target": 11, 
+            "weight": 2
+        }, 
+        {
+            "source": 10, 
+            "target": 16, 
+            "weight": 1
+        }, 
+        {
+            "source": 10, 
+            "target": 10, 
+            "weight": 4
+        }, 
+        {
+            "source": 10, 
+            "target": 17, 
+            "weight": 1
+        }, 
+        {
+            "source": 11, 
+            "target": 22, 
+            "weight": 2
+        }, 
+        {
+            "source": 11, 
+            "target": 11, 
+            "weight": 2
+        }, 
+        {
+            "source": 12, 
+            "target": 12, 
+            "weight": 1
+        }, 
+        {
+            "source": 12, 
+            "target": 14, 
+            "weight": 1
+        }, 
+        {
+            "source": 12, 
+            "target": 13, 
+            "weight": 1
+        }, 
+        {
+            "source": 13, 
+            "target": 14, 
+            "weight": 3
+        }, 
+        {
+            "source": 13, 
+            "target": 13, 
+            "weight": 5
+        }, 
+        {
+            "source": 14, 
+            "target": 14, 
+            "weight": 4
+        }, 
+        {
+            "source": 15, 
+            "target": 15, 
+            "weight": 2
+        }, 
+        {
+            "source": 15, 
+            "target": 18, 
+            "weight": 2
+        }, 
+        {
+            "source": 16, 
+            "target": 16, 
+            "weight": 2
+        }, 
+        {
+            "source": 16, 
+            "target": 17, 
+            "weight": 1
+        }, 
+        {
+            "source": 17, 
+            "target": 17, 
+            "weight": 2
+        }, 
+        {
+            "source": 18, 
+            "target": 18, 
+            "weight": 3
+        }, 
+        {
+            "source": 19, 
+            "target": 19, 
+            "weight": 4
+        }, 
+        {
+            "source": 20, 
+            "target": 20, 
+            "weight": 2
+        }, 
+        {
+            "source": 22, 
+            "target": 22, 
+            "weight": 2
+        }
+    ], 
+    "multigraph": false
+}
